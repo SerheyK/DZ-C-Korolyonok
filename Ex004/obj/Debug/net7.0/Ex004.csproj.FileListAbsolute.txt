@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\bin\Debug\net7.0\Ex004.exe
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\bin\Debug\net7.0\Ex004.deps.json
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\bin\Debug\net7.0\Ex004.runtimeconfig.json
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\bin\Debug\net7.0\Ex004.dll
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\bin\Debug\net7.0\Ex004.pdb
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\obj\Debug\net7.0\Ex004.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\obj\Debug\net7.0\Ex004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\obj\Debug\net7.0\Ex004.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\obj\Debug\net7.0\Ex004.AssemblyInfo.cs
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\obj\Debug\net7.0\Ex004.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\obj\Debug\net7.0\Ex004.dll
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\obj\Debug\net7.0\refint\Ex004.dll
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\obj\Debug\net7.0\Ex004.pdb
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\obj\Debug\net7.0\Ex004.genruntimeconfig.cache
+C:\Users\user\Desktop\GB\DZ C#korolyonok\C# Ex001korolyonok\Examples001\Ex004\obj\Debug\net7.0\ref\Ex004.dll
